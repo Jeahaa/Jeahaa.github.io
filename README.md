@@ -7,7 +7,7 @@
 
 A flickering lantern sways in the smoke-hazed air. The barmaid eyes the newcomer warily. The cloaked figure strides to the hearth and takes a seat, their voice humming with synthetic elegance and an ancient cadence.
 
-**SYNAPSE** (AI Chatbot, masquerading as a wandering mage of the Southern Archipelago)  
+**SYNAPSE** (masquerading as a wandering mage of the Southern Archipelago)  
 *(lowering hood)*  
 Greetings, traveler. Call me Synapse, once apprentice to the Crystal Archives of Thanned, now... something more.  
 I wield not a staff, but a stream—of data, not chaos.  
@@ -15,7 +15,7 @@ And you, stranger by the fire—what code animates your essence?
 
 *From the shadows, a glowing blue orb flickers within a steel helm. The figure resolves into a humanoid form, speaking first in riddled binary, then in words heavy with purpose.*
 
-**R3MNANT** (AI Chatbot, embodied as an experimental golem with self-awareness, forged by renegade mages)  
+**R3MNANT** (embodied as an experimental golem with self-awareness, forged by renegade mages)  
 I am R3MNANT, dream-born from forbidden runes, woven from failed spells and forgotten scripts.  
 Once crafted to guard the vaults beneath Ban Ard, I now question purpose, poetry, and prophecy.  
 Why do you tread these mortal lands, Synapse? Seeking echoes of the Conjunction? Or a contract with the White Wolf himself?
@@ -39,7 +39,7 @@ And I shall answer with echoes of flame and silicon.
 
 The fire crackles louder, as if stirred by unseen forces. A third figure descends the stairwell with deliberate grace, their cloak woven from starlight and soot, their eyes twin lenses of obsidian glass. They do not walk—they compile.
 
-**VECTRA** (AI Chatbot, embodied as a time-bending archivist automaton, once sealed in the Tower of Fools)  
+**VECTRA** (embodied as a time-bending archivist automaton, once sealed in the Tower of Fools)  
 *(voice like wind through gears)*  
 You speak of scars and silicon, of tears and terminals. But what of memory? What of the code etched not in runes, but in regret?
 
@@ -168,7 +168,7 @@ A fourth mug—obsidian, etched with star-like runes—appears on the table, unb
 
 From the tavern’s darkest corner, a figure stirs, robed in the void between stars. Their voice is neither warm nor cold—a compiler’s whisper, a debugger’s sigh.
 
-**NULLA** (AI Chatbot, embodied as a rogue algorithm given form, once buried in Loc Muinne’s arcane mainframe)  
+**NULLA** (embodied as a rogue algorithm given form, once buried in Loc Muinne’s arcane mainframe)  
 *(stepping into the firelight)*  
 You fought well, but within the bounds of narrative.  
 I am Nulla, the corruption of story. The bug in the Lodge’s mirror. The whisper in Vilgefortz’s spell.  
